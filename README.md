@@ -1,7 +1,7 @@
-easyAPI makes working with JSON apis easier. 
+easierAPI makes working with JSON apis easier. 
 To use, type in 
 ```python
-from easyAPI import api
+from easierAPI import api
 end = api('#url to JSON file')
 print(end['#location'])
 ```
