@@ -5,10 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="easyAPI-greatusername", 
-    version="0.0.1",
+    version="0.0.2",
     author="greatusername",
     author_email="alexander.destefano@gmail.com",
-    description="An easyer way to use a JSON api.",
+    description="An easier way to use a JSON api.",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/mathstar13/easyAPI",
