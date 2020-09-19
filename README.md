@@ -1,5 +1,6 @@
 easyAPI makes working with JSON apis easier. 
-To use, type in '''python
+To use, type in 
+'''python
 from easyAPI import api
 api('#url to JSON file','#optional! Derections to data.')
 '''
